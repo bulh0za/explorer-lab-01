@@ -46,5 +46,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-# explorer-lab-01
+
 # explorer-lab-01
